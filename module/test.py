@@ -1,0 +1,6 @@
+name = input('Enter Your Name:')
+print(name)
+birth_year = input('Enter Your Birth Year:')
+print(birth_year)
+height = input('Enter your height in cm:')
+print(height)
