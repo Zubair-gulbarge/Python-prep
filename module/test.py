@@ -1,6 +1,1 @@
-name = input('Enter Your Name:')
-print(name)
-birth_year = input('Enter Your Birth Year:')
-print(birth_year)
-height = input('Enter your height in cm:')
-print(height)
+# Due to some reasons the input function is not working in vs code but the same thing is working in the google colab and python idle.
